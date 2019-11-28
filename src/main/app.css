@@ -1,0 +1,33 @@
+#loginPane, #registerPage {
+	-fx-background-image: url(/resources/backGround.png);
+	-fx-background-size: 100%100%;
+	-fx-background-color: #fff;
+}
+#mainBG{
+	-fx-background-image: url(/resources/BG.png);
+	-fx-background-size: cover;
+}
+
+
+#registerForm {
+	-fx-background-color:rgba(230, 230, 230, 0.5);
+	-fx-background-radius: 20px;
+}
+
+.btn {
+	-fx-background-radius: 5px;
+	-fx-border-radius: 5px;
+	-fx-text-fill:#fff;
+} 
+.btn-success {
+	-fx-background-color: #007bff;
+	-fx-border-color:#ff0000;
+}
+.btn-danger {
+	-fx-background-color: #dc3545;
+	-fx-border-color:#ff0000;
+}
+
+.active {
+	-fx-background-color: rgba(0,123,255, 0.5);
+}

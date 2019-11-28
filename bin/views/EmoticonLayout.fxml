@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="500.0" prefWidth="500.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="views.EmoticonController">
+   <children>
+      <VBox prefHeight="500.0" prefWidth="500.0">
+         <children>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#e1" prefHeight="131.0" prefWidth="125.0" text="😃">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e2" prefHeight="131.0" prefWidth="125.0" text="😁">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e3" prefHeight="131.0" prefWidth="125.0" text="😆">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e4" prefHeight="131.0" prefWidth="125.0" text="😤">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#e5" prefHeight="131.0" prefWidth="125.0" text="😝">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e6" prefHeight="131.0" prefWidth="125.0" text="😍">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e7" prefHeight="131.0" prefWidth="125.0" text="😵">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e8" prefHeight="131.0" prefWidth="125.0" text="😱">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#e9" prefHeight="131.0" prefWidth="125.0" text="😠">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e10" prefHeight="131.0" prefWidth="125.0" text="😖">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e11" prefHeight="131.0" prefWidth="125.0" text="😲">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e12" prefHeight="131.0" prefWidth="125.0" text="😐">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#e13" prefHeight="131.0" prefWidth="125.0" text="😷">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e14" prefHeight="131.0" prefWidth="125.0" text="😇">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e15" prefHeight="131.0" prefWidth="125.0" text="👿">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e16" prefHeight="131.0" prefWidth="125.0" text="💩">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+            <HBox prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Button mnemonicParsing="false" onAction="#e17" prefHeight="131.0" prefWidth="125.0" text="💀">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e18" prefHeight="131.0" prefWidth="125.0" text="👾">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e19" prefHeight="131.0" prefWidth="125.0" text="👽">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+                  <Button mnemonicParsing="false" onAction="#e20" prefHeight="131.0" prefWidth="125.0" text="🖕">
+                     <font>
+                        <Font size="50.0" />
+                     </font>
+                  </Button>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
